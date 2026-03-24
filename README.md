@@ -1,8 +1,6 @@
-# Mic-MPCR
 # MiC Multi-View Point Cloud Registration Framework
 
 **Repository for Chapter 3 of the paper**  
-《基于视觉-激光紧耦合感知的钢结构MiC尺寸测量与分析系统》
 
 ## 简介
 本仓库提供针对钢结构模块化集成建筑（MiC）场景的多视图点云配准完整实现，包括：
